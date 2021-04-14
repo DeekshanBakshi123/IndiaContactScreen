@@ -11,16 +11,14 @@ The National Disaster Management Authority (NDMA), headed by the Prime Minister 
 
 Contact Details-
 
-•	Postal Address:
+Postal Address:
 
         NDMA Bhawan
-        
-        A-1, Safdarjung Enclave
+
+        A-1, Safdarjung Enclave 
        
         New Delhi - 110029
-        
-        View on Map
-       
+
         Telephones:
         
         +91-11-26701700 (Mon-Fri - 9:30AM-6:00PM)
@@ -32,6 +30,7 @@ Contact Details-
         E-mail: controlroom@ndma.gov.in
         
 All Credits: https://ndma.gov.in/
+
 
 
 2.)All India Disaster Mitigaton Institute(AIDMI):
